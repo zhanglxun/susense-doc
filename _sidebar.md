@@ -23,6 +23,7 @@
   * [golang基础](6.golang/base/README.md)
   * [golang进阶](6.golang/advance/README.md)
   * [golang应用](6.golang/application/README.md)
+  * [golang资料](6.golang/more/README.md)
 * **8.部署文档**
   * [部署手册](/8.entripise/deployment/deployment.md)
   * 运维手册
