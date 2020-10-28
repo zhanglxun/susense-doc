@@ -6,10 +6,12 @@
     * [kubernetes初体验](/1.basic/kubernetes/experience.md)
     * [kubernetes安装](1.basic/kubernetes/Installation.md)
     * [kubernetes常用操作](1.basic/kubernetes/usage.md)
+  * mysql
+    *[mysql](1.basic/mysql/README.md)
 * **2.应用中间件**
   * 分布式事务
-  * 消息中间件
-  * 数据缓存Redis
+  * [消息中间件](2.application/mq/README.md)
+  * [数据缓存Redis](2.application/mq/README.md)
   * 数据库中间件
 * **3.微服务框架**
   * [spring boot](3.microService/base/README.md)
@@ -31,7 +33,6 @@
     * [mysql数据库](/8.entripise/mysql/)
     * [RabbitMQ](/8.entripise/rabbitMq/)
 * **9.产品商业和生活**
-  * 产品
-    * [产品思维](9.bussiness/product/README.md)
-  * 营销
-    * [数字营销](9.bussiness/marking/README.md)
+  * [第二曲线](9.bussiness/business/second-corve.md)
+  * [产品思维](9.bussiness/product/README.md)
+  * [数字营销](9.bussiness/marking/README.md)

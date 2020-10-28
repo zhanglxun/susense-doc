@@ -1,13 +1,12 @@
 
-## Stargazers over time
 
-https://seladb.github.io/StarTrack-js/#/preload?r=talkgo,read)
+!> 出自github
 
-----
+```
+https://github.com/talkgo/read
 
-## ➡️ [Go 夜读](https://talkgo.org/)
-
-## ➡️ [Go: A Documentary by golang.design](https://golang.design/s/gohistory-talkgo)
+https://github.com/shockerli/go-awesome
+```
 
 ## Go 学习资料
 
@@ -108,7 +107,7 @@ https://seladb.github.io/StarTrack-js/#/preload?r=talkgo,read)
 | [Go Web Programming Bootcamp](http://www.golang-book.com/guides/bootcamp)   | Todd McLeod 在别的学校开过的训练营视频，从 Go 基础讲到基础的服务器开发和 GAE。                                              |
 | [Go 夜读](https://www.youtube.com/c/Go%E5%A4%9C%E8%AF%BB)                   |
 
-## Go 频道（YouTube 和 Bilibili）
+## Go 频道
 
 ### YouTube
 
